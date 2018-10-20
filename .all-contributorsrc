@@ -1,0 +1,210 @@
+{
+  "projectName": "crocks-extra",
+  "projectOwner": "evilsoft",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "evilsoft",
+      "name": "Ian Hofmann-Hicks",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3665793?v=4",
+      "profile": "https://github.com/evilsoft",
+      "contributions": [
+        "code",
+        "doc",
+        "video"
+      ]
+    },
+    {
+      "login": "rstegg",
+      "name": "Ryan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19234385?v=4",
+      "profile": "https://github.com/rstegg",
+      "contributions": [
+        "code",
+        "bug",
+        "review"
+      ]
+    },
+    {
+      "login": "avanslaars",
+      "name": "Andrew Van Slaars",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1271181?v=4",
+      "profile": "http://vanslaars.io",
+      "contributions": [
+        "doc",
+        "video"
+      ]
+    },
+    {
+      "login": "HenriqueLimas",
+      "name": "Henrique Limas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2222191?v=4",
+      "profile": "https://github.com/HenriqueLimas",
+      "contributions": [
+        "code",
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "rpearce",
+      "name": "Robert Pearce",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/592876?v=4",
+      "profile": "https://robertwpearce.com",
+      "contributions": [
+        "bug",
+        "code",
+        "review",
+        "tutorial",
+        "doc"
+      ]
+    },
+    {
+      "login": "flintinatux",
+      "name": "Scott McCormack",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/888052?v=4",
+      "profile": "https://github.com/flintinatux",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "foxdonut",
+      "name": "Fred Daoud",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1706600?v=4",
+      "profile": "http://www.fdaoud.com",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "karthikiyengar",
+      "name": "Karthik Iyengar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8260207?v=4",
+      "profile": "https://github.com/karthikiyengar",
+      "contributions": [
+        "review",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "jonwhelan",
+      "name": "Jon Whelan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7376957?v=4",
+      "profile": "https://github.com/jonwhelan",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "bennypowers",
+      "name": "Benny Powers",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1466420?v=4",
+      "profile": "http://bennypowers.com",
+      "contributions": [
+        "doc",
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "dalefrancis88",
+      "name": "Dale Francis",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1909325?v=4",
+      "profile": "https://github.com/dalefrancis88",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "premithk",
+      "name": "Premith",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7926867?v=4",
+      "profile": "https://github.com/premithk",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "dbagia",
+      "name": "Dipen Bagia",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6302673?v=4",
+      "profile": "https://github.com/dbagia",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "ximenean",
+      "name": "Andrew Jones",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5243925?v=4",
+      "profile": "https://github.com/ximenean",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "wayneseymour",
+      "name": "W. K. Seymour III",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4858051?v=4",
+      "profile": "https://github.com/wayneseymour",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "zeucxb",
+      "name": "Eliseu Benedito Codinhoto",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11702749?v=4",
+      "profile": "https://youtube.com/euprogramadoroficial",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "NiallArkEnergy",
+      "name": "NiallArkEnergy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12712867?v=4",
+      "profile": "https://github.com/NiallArkEnergy",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "vidyu",
+      "name": "vidyu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3265934?v=4",
+      "profile": "https://github.com/vidyu",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "michael-wolfenden",
+      "name": "Michael Wolfenden",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/780521?v=4",
+      "profile": "http://michael-wolfenden.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "JohanCodinha",
+      "name": "Johan Codinha",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14071356?v=4",
+      "profile": "https://github.com/JohanCodinha",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "repoType": "github"
+}
