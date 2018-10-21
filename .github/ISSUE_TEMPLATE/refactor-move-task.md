@@ -6,8 +6,8 @@ about: A task to move an item from the Crocks repo to this
 
 ### Description/Location
 
-location: './helpers/aThing.js'
-description
+**location:** './helpers/aThing.js'
+**description:**
 
 ### Task List
 
